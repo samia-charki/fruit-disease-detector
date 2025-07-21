@@ -6,7 +6,7 @@ training_pyTorch.py: Training script
 
 photo_prediction.py: Prediction script
 
-last.pth: Trained model file
+best_model.pth: Trained model file
 
 .gitignore: File to ignore large files
 
